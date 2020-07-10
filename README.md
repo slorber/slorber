@@ -1,5 +1,3 @@
-### Hi 👋
-
 <p align="center">
   <a href="https://sebastienlorber.com">Website</a> -
   <a href="https://twitter.com/intent/follow?screen_name=sebastienlorber&tw_p=followbutton">@sebastienlorber</a> -
@@ -8,9 +6,7 @@
   <a href="https://dev.to/sebastienlorber">Dev.to</a>
 </p>
 
-# Work
-
-I'm Sébastien, a freelance developer living near Paris, specialized in **React** and **ReactNative**.
+Hi 👋, I'm Sébastien, a freelance developer living near Paris, specialized in **React** and **ReactNative**.
 
 I’m currently working on [Docusaurus](https://github.com/facebook/docusaurus), a React-based static site generator with a focus on documentation, as a contractor for Facebook.
 
