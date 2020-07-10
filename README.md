@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](/logo.png)
 
 <p align="center">
   <a href="https://sebastienlorber.com">Website</a> -
