@@ -1,4 +1,4 @@
-![logo](/logo.png)
+![logo](https://github.com/slorber/slorber/blob/master/logo.png)
 
 <p align="center">
   <a href="https://sebastienlorber.com">Website</a> -
