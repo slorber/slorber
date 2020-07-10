@@ -19,9 +19,9 @@ I like:
 - flexibility and trust: I work for people that care about outcomes
 - interesting projects: I choose carefully, to keep learning
 - part-time: working on more projects gives a diverse experience
-- consulting: the best ROI for my customers
+- consulting, coaching, training, audits: the best ROI for my customers, and a higher rate for me
 
-I like freedom, and choose a different path than most French contractors (on-site, full-time, multi-years contracts).
+I choose a different path than most French contractors (on-site, full-time, multi-years contracts).
 
 Previously, I was a Java/Scala developer for a few years, and I didn't like JavaScript much :)
 
