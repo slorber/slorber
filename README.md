@@ -10,20 +10,21 @@
 
 Hi 👋, I'm Sébastien, a freelance developer living near Paris, specialized in **React** and **ReactNative**.
 
-I’m currently working on [Docusaurus](https://github.com/facebook/docusaurus), a React-based static site generator with a focus on documentation, as a contractor for Facebook.
-
 I've been a **React early-adopter**, since **January 2014**[*](https://stackoverflow.com/a/21352468/82609). 
+
+I’m currently working on [Docusaurus](https://github.com/facebook/docusaurus), a React-based static site generator with a focus on documentation, as a contractor for Facebook.
 
 I choose a different path than most contractors in France, who work mostly on-site, full-time, multiple months on the same project.
 
 I like:
-- working remotely: since 2014
-- flexibility and trust: I work for people that care mostly about outcomes
-- taking only interesting projects: I choose carefully, and ensure to keep my profile up-to-date on latest technologies
-- part-time: permits me to work on a lot of different projects, and keep learning
-- consulting: the ROI for customers is much higher than execution work
+- remote work: since 2014
+- flexibility and trust: I work for people that care about outcomes
+- interesting projects: I choose carefully, to keep learning
+- part-time: working on more projects gives a diverse experience
+- consulting: the best ROI for my customers
 
 Previously, I was a Java/Scala developer for a few years, and I didn't like JavaScript much :)
+
 
 
 # Content creation
