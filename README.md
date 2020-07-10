@@ -4,7 +4,7 @@
   <a href="https://sebastienlorber.com">Website</a> -
   <a href="https://twitter.com/intent/follow?screen_name=sebastienlorber&tw_p=followbutton">@sebastienlorber</a> -
   <a href="https://www.linkedin.com/in/sebastienlorber/">LinkedIn</a> -
-  <a href="https://stackoverflow.com/users/82609/sebastien-lorber">StackOverflow</a>
+  <a href="https://stackoverflow.com/users/82609/sebastien-lorber">StackOverflow</a> -
   <a href="https://dev.to/sebastienlorber">Dev.to</a>
 </p>
 
