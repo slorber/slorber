@@ -14,8 +14,6 @@ I've been a **React early-adopter**, since **January 2014**[*](https://stackover
 
 I’m currently working on [Docusaurus](https://github.com/facebook/docusaurus), a React-based static site generator with a focus on documentation, as a contractor for Facebook.
 
-I choose a different path than most contractors in France, who work mostly on-site, full-time, multiple months on the same project.
-
 I like:
 - remote work: since 2014
 - flexibility and trust: I work for people that care about outcomes
@@ -23,8 +21,9 @@ I like:
 - part-time: working on more projects gives a diverse experience
 - consulting: the best ROI for my customers
 
-Previously, I was a Java/Scala developer for a few years, and I didn't like JavaScript much :)
+I like freedom, and choose a different path than most French contractors (on-site, full-time, multi-years contracts).
 
+Previously, I was a Java/Scala developer for a few years, and I didn't like JavaScript much :)
 
 
 # Content creation
