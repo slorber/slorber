@@ -38,7 +38,7 @@ I'm also trying to find a good workflow to produce more detailed blog posts, and
 
 I have a lot of things to share, and a large backlog of things I want to write about. The only problem is time :)
 
-
+---
 
 [![slorber's github stats](https://github-readme-stats.vercel.app/api?username=slorber)](https://github.com/anuraghazra/github-readme-stats)
 
