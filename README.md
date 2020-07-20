@@ -40,6 +40,7 @@ I have a lot of things to share, and a large backlog of things I want to write a
 
 
 
+[![slorber's github stats](https://github-readme-stats.vercel.app/api?username=slorber)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
