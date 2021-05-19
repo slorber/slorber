@@ -2,13 +2,18 @@
 
 <p align="center">
   <a href="https://sebastienlorber.com">Website</a> -
-  <a href="https://twitter.com/intent/follow?screen_name=sebastienlorber&tw_p=followbutton">@sebastienlorber</a> -
   <a href="https://www.linkedin.com/in/sebastienlorber/">LinkedIn</a> -
   <a href="https://stackoverflow.com/users/82609/sebastien-lorber">StackOverflow</a> -
   <a href="https://dev.to/sebastienlorber">Dev.to</a>
 </p>
 
-Hi 👋, I'm Sébastien, a freelance developer living near Paris, specialized in **React** and **ReactNative**.
+<p align="center">
+  <a href="https://twitter.com/intent/follow?screen_name=sebastienlorber&tw_p=followbutton">
+    <img src="https://img.shields.io/twitter/follow/sebastienlorber.svg?style=social" alt="Twitter Follow" />
+  </a>
+</p>
+
+Hi 👋, I'm Sébastien, a freelance developer living near Paris, specialized in **React** and **React-Native**.
 
 I've been a **React early-adopter**, since **January 2014**[*](https://stackoverflow.com/a/21352468/82609). 
 
@@ -18,10 +23,10 @@ I like:
 - remote work: since 2014
 - flexibility and trust: I work for people that care about outcomes
 - interesting projects: I choose carefully, to keep learning
-- part-time: working on more projects gives a diverse experience
+- part-time: working on multiple projects gives a diverse experience
 - consulting, coaching, training, audits: the best ROI for my customers, and a higher rate for me
 
-I choose a different path than most French contractors (on-site, full-time, multi-years contracts).
+I chose a different path than most French contractors (on-site, full-time, multi-years contracts).
 
 Previously, I was a Java/Scala developer for a few years, and I didn't like JavaScript much :)
 
@@ -32,7 +37,7 @@ Despite a large experience of the whole React ecosystem, I didn't produce much c
 
 Lately, I'm trying to write more, and to follow the Learn In Public mantra. 
 
-Unusual, but the platform I focus on the most is [LinkedIn](https://sebastienlorber.com/linkedin): I write almost daily about React related stuff, in french, since summer 2019, with great success. It helped me bootstrap [React Hebdo](http://sebastienlorber.com/newsletter), my weekly React newsletter.
+Unusual, but the platform I focus on the most is [LinkedIn](https://sebastienlorber.com/linkedin): I write almost daily about React related stuff, in french, since summer 2019, with great success. It helped me bootstrap [ReactHebdo.fr](http://reacthebdo.fr), my weekly React curation newsletter.
 
 I'm also trying to find a good workflow to produce more detailed blog posts, and content in english, to reach a broader audience.
 
@@ -42,7 +47,7 @@ I have a lot of things to share, and a large backlog of things I want to write a
 
 [![slorber's github stats](https://github-readme-stats.vercel.app/api?username=slorber)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Source Karma badge for @slorber](https://sourcekarma-og.vercel.app/api/slorber/github)](https://sourcekarma.vercel.app/slorber)
 
 <!--
 **slorber/slorber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
