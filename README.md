@@ -17,6 +17,14 @@ Hi 👋, I'm Sébastien, a freelance developer living near Paris, specialized in
 
 I've been a **React early-adopter**, since **January 2014**[*](https://stackoverflow.com/a/21352468/82609). 
 
+---
+
+I am the author of **[ThisWeekInReact.com](https://thisweekinreact.com)**, the best newsletter to stay up-to-date with the React ecosystem:
+
+[![ThisWeekInReact.com banner](https://user-images.githubusercontent.com/749374/136185889-ebdb67cd-ec78-4655-b88b-79a6c134acd2.png)](https://thisweekinreact.com)
+
+---
+
 I’m currently working on [Docusaurus](https://github.com/facebook/docusaurus), a React-based static site generator with a focus on documentation, as a contractor for Facebook.
 
 I like:
@@ -31,17 +39,6 @@ I chose a different path than most French contractors (on-site, full-time, multi
 Previously, I was a Java/Scala developer for a few years, and I didn't like JavaScript much :)
 
 
-# Content creation
-
-Despite a large experience of the whole React ecosystem, I didn't produce much content between 2014 and 2019.
-
-Lately, I'm trying to write more, and to follow the Learn In Public mantra. 
-
-Unusual, but the platform I focus on the most is [LinkedIn](https://sebastienlorber.com/linkedin): I write almost daily about React related stuff, in french, since summer 2019, with great success. It helped me bootstrap [ReactHebdo.fr](http://reacthebdo.fr), my weekly React curation newsletter.
-
-I'm also trying to find a good workflow to produce more detailed blog posts, and content in english, to reach a broader audience.
-
-I have a lot of things to share, and a large backlog of things I want to write about. The only problem is time :)
 
 ---
 
@@ -49,17 +46,3 @@ I have a lot of things to share, and a large backlog of things I want to write a
 
 [![Source Karma badge for @slorber](https://sourcekarma-og.vercel.app/api/slorber/github)](https://sourcekarma.vercel.app/slorber)
 
-<!--
-**slorber/slorber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
