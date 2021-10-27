@@ -1,4 +1,10 @@
-![logo](https://github.com/slorber/slorber/blob/master/logo.png)
+
+
+Hi 👋, I'm Sébastien, a freelance developer living near Paris, specialized in **React** and **React-Native**.
+
+I've been a **React early-adopter**, since **January 2014**[*](https://stackoverflow.com/a/21352468/82609). 
+
+I’m currently working on [Docusaurus](https://github.com/facebook/docusaurus), a React-based static site generator with a focus on documentation, as a contractor for Facebook.
 
 <p align="center">
   <a href="https://sebastienlorber.com">Website</a> -
@@ -13,10 +19,6 @@
   </a>
 </p>
 
-Hi 👋, I'm Sébastien, a freelance developer living near Paris, specialized in **React** and **React-Native**.
-
-I've been a **React early-adopter**, since **January 2014**[*](https://stackoverflow.com/a/21352468/82609). 
-
 ---
 
 I am the author of **[ThisWeekInReact.com](https://thisweekinreact.com)**, the best newsletter to stay up-to-date with the React ecosystem:
@@ -24,8 +26,6 @@ I am the author of **[ThisWeekInReact.com](https://thisweekinreact.com)**, the b
 [![ThisWeekInReact.com banner](https://user-images.githubusercontent.com/749374/136185889-ebdb67cd-ec78-4655-b88b-79a6c134acd2.png)](https://thisweekinreact.com)
 
 ---
-
-I’m currently working on [Docusaurus](https://github.com/facebook/docusaurus), a React-based static site generator with a focus on documentation, as a contractor for Facebook.
 
 I like:
 - remote work: since 2014
