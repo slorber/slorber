@@ -44,5 +44,3 @@ Previously, I was a Java/Scala developer for a few years, and I didn't like Java
 
 [![slorber's github stats](https://github-readme-stats.vercel.app/api?username=slorber)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Source Karma badge for @slorber](https://sourcekarma-og.vercel.app/api/slorber/github)](https://sourcekarma.vercel.app/slorber)
-
